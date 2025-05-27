@@ -1,1 +1,2 @@
 # Tristan's Github 
+Welcome to my personal website! Here you will be able to follow my progress on projects and stay up to date with anything I'm working on. 
