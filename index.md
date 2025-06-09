@@ -1,5 +1,1 @@
-Hello and Welcome to my blog! 
-
-Stay up to date with my projects and blog posts submitted weekly.
-
-To follow my code please feel free to checkout my github linked below
+Welcome to my personal website! Here you will be able to follow my progress on projects and stay up to date with anything I'm working on. This website is developed concurrently with my Professional Development in CS course
