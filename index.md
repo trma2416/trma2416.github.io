@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hello and Welcome to my blog! 
 
-Maybe say a some things about yourself.
+Stay up to date with my projects and blog posts submitted weekly.
 
-Or maybe what you plan to blog about.
+To follow my code please feel free to checkout my github linked below
