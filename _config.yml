@@ -1,26 +1,23 @@
-title: "Tristan's Blog"
+title: "Tristan's Website"
 author: "Tristan Martinez"
-description: "Contact me or add my socials" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Contact Information" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "tristandmartinez99@gmail.com"
-
 github_username: "trma2416"
 linkedin_username: "https://www.linkedin.com/in/tristan-martinez1"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
 
+navbar-links:
+  About me: "About Me"
+  Resume: "Resume"
+  
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
 
-rss: rss
+
 
 kramdown:
   syntax_highlighter_opts:
