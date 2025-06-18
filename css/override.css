@@ -1,3 +1,7 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Horizontal rule spacing */
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
@@ -42,4 +46,11 @@ hr {
   transform: translateY(-50%);
   font-size: 2.5em;
   opacity: 0.3;
+}
+
+/* Custom Site Title Font */
+.site-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
 }
