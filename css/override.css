@@ -60,8 +60,10 @@ hr {
 }
 
 .profile-pic {
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
+  max-width: 100%;
+  height: auto;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid #ccc;

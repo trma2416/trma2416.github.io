@@ -9,8 +9,8 @@ github_username: "trma2416"
 linkedin_username: "https://www.linkedin.com/in/tristan-martinez1"
 
 navbar-links:
-  About me: "About Me"
-  Resume: "Resume"
+  About me: "aboutme.md"
+  Resume: "resume.md"
 
   
 #########################################################################################
