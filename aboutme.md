@@ -1,14 +1,15 @@
 ## About Me
-A little bit of background from me, I grew up in a small mountain town in Southwest Colorado called Durango. Whilest growing up, I took advantage of the vast wilderness that I was surrounded by, by mountain biking, fly fishing, hiking, camping, snowboarding, rock climbing, and many other outdoor activities. While in High School I discovered that I had an apptitude for math and in college I wanted to explore that curiousity. 
 
-# Education
+A little bit of background about me — I grew up in a small mountain town in southwest Colorado called Durango. Growing up, I took full advantage of the surrounding wilderness by mountain biking, fly fishing, hiking, camping, snowboarding, rock climbing, and enjoying many other outdoor activities. While in high school, I discovered that I had an aptitude for math, and in college, I wanted to explore that curiosity further.
 
-Following my interest, I attended the University of Colorado Bouder staring in 2018. Initially I was an undeclared major, and was unsure as to what career choice I wanted to make. After a year, and discoursing with friends and family I decided that I would pursue a degree in Physics. I earned a B.A. in Physics in the fall of 2022. 
+## Education
 
-During my undergrad I had the opportunity to perform research in renewable energy, specifically batteries where I used optical techniques to analyze materials used in developing technologies. This was my first major experience coding and using python data manipulation and visualization techniques to perform the analysis. This sparked my interest in Computer Science and I wanted to learn more. 
+Following my interests, I began attending the University of Colorado Boulder in 2018. Initially, I was an undeclared major and unsure of what career path I wanted to pursue. After a year of discussion with friends and family, I decided to pursue a degree in Physics. I earned a B.A. in Physics in the fall of 2022.
 
-As of fall of 2024 I am currently a student in the Applied Computer Science program at University of Colorado Boulder for which I am pursuing a B.S. in Applied Computer Science with aspirations of gaining acceptance into a Graduate program for Computer Science or Data Science. 
+During my undergraduate studies, I had the opportunity to perform research in renewable energy — specifically in battery technology — where I used optical techniques to analyze materials used in developing technologies. This was my first significant experience with coding, where I used Python for data manipulation and visualization to conduct the analysis. This sparked my interest in computer science and made me eager to learn more.
 
-# Technical Skills
+As of fall 2024, I am a student in the Applied Computer Science program at the University of Colorado Boulder, pursuing a B.S. in Applied Computer Science. I aspire to gain acceptance into a graduate program in Computer Science or Data Science.
 
-Thus far I have learned C++ and Python in my previous experience I learned how to perform peak fitting using pandas, scipy, lmfit, numpy, and data visualization using matplotlib. In my program I have learned data structures and algorithms and how to modify and use these skills to solve real world problems. Some technologies, softwares that I am learning as part of my program include git and github, CMake, pytorch, huggingface, and more to be learned. 
+## Technical Skills
+
+So far, I have learned C++ and Python. In my previous research experience, I used Python libraries such as `pandas`, `scipy`, `lmfit`, and `numpy` for peak fitting, along with `matplotlib` for data visualization. In my academic program, I have studied data structures and algorithms and applied them to solve real-world problems. Some of the technologies and tools I am currently learning include Git and GitHub, CMake, PyTorch, Hugging Face, and more.
