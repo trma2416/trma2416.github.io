@@ -1,0 +1,25 @@
+<footer class="site-footer">
+    <div class="wrapper" style="text-align: center;">
+  
+      <div class="footer-description">
+        <strong>{{ site.description }}</strong>
+      </div>
+  
+      <div class="footer-links" style="margin-top: 0.5em;">
+        {% if site.email %}
+          <a href="mailto:{{ site.email }}">Email</a>
+        {% endif %}
+        {% if site.github_username %}
+          <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+        {% endif %}
+        {% if site.linkedin_username %}
+          <a href="{{ site.linkedin_username }}">LinkedIn</a>
+        {% endif %}
+      </div>
+  
+      <div class="footer-note" style="margin-top: 1em; font-size: 0.8em;">
+        &copy; {{ site.author }} {{ site.time | date: '%Y' }}.
+      </div>
+  
+    </div>
+  </footer>
