@@ -54,3 +54,15 @@ hr {
   font-size: 2.5rem;
   font-weight: 700;
 }
+
+.profile-pic-container {
+  margin-right: 15px;
+}
+
+.profile-pic {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ccc;
+}
