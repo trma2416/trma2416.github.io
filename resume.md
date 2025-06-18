@@ -8,4 +8,4 @@ title: "Resume"
 
 ## Download
 
-[Download my resume (PDF)](/assets/files/Tristan Martinez Resume May.pdf){:target="_blank" download}
+[Download my resume (PDF)](/assets/files/resume.pdf){:target="_blank" download}
