@@ -7,12 +7,17 @@ layout: default
     <div class="profile-pic-container">
       <img src="{{ '/assets/images/IMG_8480.jpg' | relative_url }}" alt="My photo" class="profile-pic">
     </div>
-    <span class = "site-author">{{site.author | escape }}</span>
+    
   </div>
 </header>
 
 <main class="page-content" aria-label="Content">
-  <div class="wrapper">
-    {{ content }}
+  <div class="wrapper" style="text-align: center; margin-top: 1em;">
+    <div class = "site-author">
+        <strong>{{site.author}}</strong>
+    </div>
+    <div class = "home-intro" style = "margin-top: 1em;">
+        {{ content }}
+    </div>
   </div>
 </main>
