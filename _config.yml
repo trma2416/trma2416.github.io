@@ -11,12 +11,12 @@ linkedin_username: "https://www.linkedin.com/in/tristan-martinez1"
 navbar-links:
   About me: "About Me"
   Resume: "Resume"
-  
+
   
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "basic"
 
 
 
