@@ -3,7 +3,7 @@ Last week, I imported my data and generated some cleaning scripts to reformat it
 
 
 
-This week I plan on finishing up my data cleaning, and implementing a data pipeline to automatically update my database if I were to add some new data. This is a concept I want to learn how to do so I think it will be useful in practice since many data science roles require building or working with data pipelines. I also plan on training my model using Amazon’s tg4.nano VM as it offers on demand payment which runs at $0.0042/hour so If I train according to the repositories instructions, over the course of 4 days, that's running a grand total of $0.4032 which is very affordable. (Also I just got some of my “cleaned” data back and the API calls to chat GPT didn’t fix grammatical errors as I wanted for many of my item descriptions still make no sense)
+This week I plan on finishing up my data cleaning, and implementing a data pipeline to automatically update my database if I were to add some new data. This is a concept I want to learn how to do so I think it will be useful in practice since many data science roles require building or working with data pipelines. I also plan on training my model using Amazon’s x4ad.xlarge VM or similar as it offers on demand payment which has relatively cheap on demand payment so If I train according to the repositories instructions, over the course of 4 days, that's running me only a few bucks. (Also I just got some of my “cleaned” data back and the API calls to chat GPT didn’t fix grammatical errors as I wanted for many of my item descriptions still make no sense)
 
 
 
